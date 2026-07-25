@@ -1,4 +1,4 @@
-## Merhaba, ben Enes  / Hi, I'm Enes
+## Merhaba, ben Enes / Hi, I'm Enes
 
 🇹🇷 42 İstanbul'da yazılım eğitimime devam eden bir öğrenciyim. C dili ve algoritma üzerine sağlam bir temele sahibim, şu anda Python ile gelişimimi sürdürüyorum.
 
@@ -6,18 +6,24 @@
 
 ---
 
-###  Teknolojiler / Tech
+### Teknolojiler / Tech
 
 - **Diller / Languages:** C, Python
 - **Araçlar / Tools:** Git, Make, GCC, Linux
 
-###  Projeler / Projects
+### Projeler / Projects
 
+**C**
 - **[Push_Swap](https://github.com/enesilhan1/42-Push_Swap)** — İki yığın kullanarak minimum işlemle sıralama / Sorting with two stacks using minimal operations
 - **[ft_printf](https://github.com/enesilhan1/42-FT_PRINTF)** — printf fonksiyonunun yeniden yazımı / A reimplementation of printf
 - **[Get_Next_Line](https://github.com/enesilhan1/42-Get_Next_Line)** — Dosyadan satır satır okuma / Reading a file line by line
-- **[LIBFT](https://github.com/enesilhan1/42-L-BFT)** — Standart C fonksiyonlarını yeniden yazan özel kütüphane / A custom C library reimplementing standard functions
+- **[libft](https://github.com/enesilhan1/42-LIBFT)** — Standart C fonksiyonlarını yeniden yazan özel kütüphane / A custom C library reimplementing standard functions
 
-###  İletişim / Contact
+**Python**
+- **[Python00](https://github.com/enesilhan1/42-Python00)** — Python temelleri / Python basics
+- **[Python01](https://github.com/enesilhan1/42-Python01)** — Nesne yönelimli programlama / Object-oriented programming
+- **[Python02](https://github.com/enesilhan1/42-Python02)** — Hata yönetimi ve özel exception sınıfları / Exception handling and custom exceptions
+
+### İletişim / Contact
 
 - LinkedIn: [enes-ilhan](https://www.linkedin.com/in/enes-ilhan-2b52a92bb/)
