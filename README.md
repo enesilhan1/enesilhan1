@@ -16,7 +16,7 @@
 - **[Push_Swap](https://github.com/enesilhan1/42-Push_Swap)** — İki yığın kullanarak minimum işlemle sıralama / Sorting with two stacks using minimal operations
 - **[ft_printf](https://github.com/enesilhan1/42-FT_PRINTF)** — printf fonksiyonunun yeniden yazımı / A reimplementation of printf
 - **[Get_Next_Line](https://github.com/enesilhan1/42-Get_Next_Line)** — Dosyadan satır satır okuma / Reading a file line by line
-- **[LIBFT](https://github.com/enesilhan1/42-L-BFT)** — 42 projesi / A 42 project
+- **[LIBFT](https://github.com/enesilhan1/42-L-BFT)** — Standart C fonksiyonlarını yeniden yazan özel kütüphane / A custom C library reimplementing standard functions
 
 ###  İletişim / Contact
 
