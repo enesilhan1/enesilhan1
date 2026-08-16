@@ -1,8 +1,8 @@
 ## Merhaba, ben Enes / Hi, I'm Enes
 
-🇹🇷 42 İstanbul'da yazılım eğitimime devam eden bir öğrenciyim. C dili ve algoritma üzerine sağlam bir temele sahibim, şu anda Python ile gelişimimi sürdürüyorum.
+42 İstanbul'da yazılım eğitimime devam eden bir öğrenciyim. C dili ve algoritma üzerine sağlam bir temele sahibim, şu anda Python ile gelişimimi sürdürüyorum.
 
-🇬🇧 I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, and I'm currently expanding my skills with Python.
+I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, and I'm currently expanding my skills with Python.
 
 ---
 
@@ -20,9 +20,13 @@
 - **[libft](https://github.com/enesilhan1/42-LIBFT)** — Standart C fonksiyonlarını yeniden yazan özel kütüphane / A custom C library reimplementing standard functions
 
 **Python**
-- **[Python00](https://github.com/enesilhan1/42-Python00)** — Python temelleri / Python basics
+- **[Python00](https://github.com/enesilhan1/42-Python00)** — Temeller / Basics
 - **[Python01](https://github.com/enesilhan1/42-Python01)** — Nesne yönelimli programlama / Object-oriented programming
-- **[Python02](https://github.com/enesilhan1/42-Python02)** — Hata yönetimi ve özel exception sınıfları / Exception handling and custom exceptions
+- **[Python02](https://github.com/enesilhan1/42-Python02)** — Hata yönetimi / Exception handling
+- **[Python03](https://github.com/enesilhan1/42-Python03)** — Koleksiyonlar ve generatorlar / Collections and generators
+- **[Python04](https://github.com/enesilhan1/42-Python04)** — Dosya I/O / File I/O
+- **[Python05](https://github.com/enesilhan1/42-Python05)** — Soyutlama ve polimorfizm / Abstraction and polymorphism
+- **[Python06](https://github.com/enesilhan1/42-Python06)** — Import sistemi / Import system
 
 ### İletişim / Contact
 
