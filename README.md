@@ -27,6 +27,7 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python04](https://github.com/enesilhan1/42-Python04)** — Dosya I/O / File I/O
 - **[Python05](https://github.com/enesilhan1/42-Python05)** — Soyutlama ve polimorfizm / Abstraction and polymorphism
 - **[Python06](https://github.com/enesilhan1/42-Python06)** — Import sistemi / Import system
+- **[Python07](https://github.com/enesilhan1/42-Python07)** — Tasarım desenleri (abstract factory, strategy) / Design patterns (abstract factory, strategy)
 
 ### İletişim / Contact
 
