@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Enes and I'm a software developer, from İstanbul.</h2>
 
 ###
 
@@ -25,9 +25,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/memetemplate/332777762/Rage-Table-Smash"  />
 
 ###
