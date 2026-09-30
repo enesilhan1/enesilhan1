@@ -52,7 +52,3 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python06](https://github.com/enesilhan1/42-Python06)** — Import sistemi / Import system
 - **[Python07](https://github.com/enesilhan1/42-Python07)** — Tasarım desenleri / Design patterns
 - **[Python08](https://github.com/enesilhan1/42-Python08)** — Sanal ortamlar ve bağımlılık yönetimi / Virtual environments and dependency management
-
-### İletişim / Contact
-
-- LinkedIn: [enes-ilhan](https://www.linkedin.com/in/enes-ilhan-2b52a92bb/)
