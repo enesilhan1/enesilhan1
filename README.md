@@ -1,5 +1,7 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Enes and I'm a software developer, from İstanbul.</h2>
 
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FpcTV4NmZwZXEwdnAxbTFnOHNnMnhlMzd1YTZzODVpYTJqeTNrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ORjfgiG9ZtxcQQwZzv/giphy.gif" alt="dancing gif" />
+
 ###
 
 <div data-importer="socials" align="left">
@@ -53,4 +55,6 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python07](https://github.com/enesilhan1/42-Python07)** — Tasarım desenleri / Design patterns
 - **[Python08](https://github.com/enesilhan1/42-Python08)** — Sanal ortamlar ve bağımlılık yönetimi / Virtual environments and dependency management
 
-  
+### İletişim / Contact
+
+- LinkedIn: [enes-ilhan](https://www.linkedin.com/in/enes-ilhan-2b52a92bb/)
