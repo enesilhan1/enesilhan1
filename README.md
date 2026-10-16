@@ -30,7 +30,7 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python10](https://github.com/enesilhan1/42-Python10)** — Fonksiyonel programlama / Functional programming
 
 
-- **Kişisel Projeler / Side Projects** (AI destekli geliştirildi / built with Claude)
+**Kişisel Projeler / Side Projects** (AI destekli geliştirildi / built with Claude)
 - **[CountDown Alarm](https://github.com/enesilhan1/REPO_ADI)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
 
 ---
