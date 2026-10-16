@@ -32,6 +32,7 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 
 **Kişisel Projeler / Side Projects** (AI destekli geliştirildi / built with Claude)
 - **[CountDown Alarm](https://github.com/enesilhan1/REPO_ADI)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
+- **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Yapılmayan planı otomatik olarak sonraki plan saatine kaydıran Android planlayıcı / Android planner that rolls missed plans forward to the next slot
 
 ---
 
