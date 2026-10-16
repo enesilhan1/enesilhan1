@@ -29,6 +29,9 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python09](https://github.com/enesilhan1/42-Python09)** — Pydantic ile veri doğrulama / Data validation with Pydantic
 - **[Python10](https://github.com/enesilhan1/42-Python10)** — Fonksiyonel programlama / Functional programming
 
+- **Kişisel Projeler / Side Projects** (AI destekli geliştirildi / built with Claude)
+- **[CountDown Alarm](https://github.com/enesilhan1/REPO_ADI)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
+
 ---
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FpcTV4NmZwZXEwdnAxbTFnOHNnMnhlMzd1YTZzODVpYTJqeTNrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ORjfgiG9ZtxcQQwZzv/giphy.gif" alt="dancing gif" />
