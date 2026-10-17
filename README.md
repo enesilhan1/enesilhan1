@@ -30,9 +30,10 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 - **[Python10](https://github.com/enesilhan1/42-Python10)** — Fonksiyonel programlama / Functional programming
 
 
-**Kişisel Projeler / Side Projects** (AI destekli geliştirildi / built with Claude)
+**Diğer Projeler / Other Projects** (AI destekli geliştirildi / AI-assisted)
 - **[CountDown Alarm](https://github.com/enesilhan1/REPO_ADI)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
 - **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Yapılmayan planı otomatik olarak sonraki plan saatine kaydıran Android planlayıcı / Android planner that rolls missed plans forward to the next slot
+- **[TutorSim](https://github.com/enesilhan1/REPO_ADI)** — Cat the Jam game jam'de ekiple geliştirilen 2D oyun, 20 takım arasında 2. / Team-built 2D game from the Cat the Jam game jam, 2nd of 20 teams
 
 ---
 
