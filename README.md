@@ -31,9 +31,9 @@ I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, an
 
 
 **Diğer Projeler / Other Projects** (AI destekli geliştirildi / AI-assisted)
-- **[CountDown Alarm](https://github.com/enesilhan1/REPO_ADI)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
+- **[CountDown Alarm](https://github.com/enesilhan1/CountDown-Alarm)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
 - **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Yapılmayan planı otomatik olarak sonraki plan saatine kaydıran Android planlayıcı / Android planner that rolls missed plans forward to the next slot
-- **[TutorSim](https://github.com/enesilhan1/REPO_ADI)** — Cat the Jam game jam'de ekiple geliştirilen 2D oyun, 20 takım arasında 2. / Team-built 2D game from the Cat the Jam game jam, 2nd of 20 teams
+- **[TutorSim](https://github.com/enesilhan1/tutorsim)** — Cat the Jam game jam'de ekiple geliştirilen 2D oyun, 20 takım arasında 2. / Team-built 2D game from the Cat the Jam game jam, 2nd of 20 teams
 
 ---
 
