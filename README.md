@@ -56,6 +56,7 @@ Modules from the 42 İstanbul Python curriculum, completed in order from 00 to 1
 - **[CountDown Alarm](https://github.com/enesilhan1/CountDown-Alarm)** — Android alarm set by duration instead of clock time
 - **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Android planner that moves missed plans to the next available slot
 - **[Web Assistant](https://github.com/enesilhan1/Web-asistan)** — Chrome extension that inspects open tabs and searches browsing history
+- **[Manga Translator](https://github.com/enesilhan1/MangaTranslater)** — Chrome and Firefox extension that translates the text inside manga images, right over the speech bubbles
 
 ---
 
