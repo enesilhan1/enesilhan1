@@ -1,67 +1,74 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Enes and I'm a software developer, from İstanbul.</h2>
+# Hi, I'm Enes
 
-###
+<a href="https://www.linkedin.com/in/enes-ilhan-2b52a92bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@enesilhan8007" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube" /></a>
 
-42 İstanbul'da yazılım eğitimime devam eden bir öğrenciyim. C dili ve algoritma üzerine sağlam bir temele sahibim, şu anda Python ile gelişimimi sürdürüyorum.
+Software development student at **42 İstanbul**. My foundation is in C and algorithms, I'm currently expanding into Python, and my long-term goal is **game development**.
 
-I'm a student at 42 İstanbul. I have a solid foundation in C and algorithms, and I'm currently expanding my skills with Python.
-
----
-
-### Projeler / Projects
-
-**C**
-- **[Push_Swap](https://github.com/enesilhan1/42-Push_Swap)** — İki yığın kullanarak minimum işlemle sıralama / Sorting with two stacks using minimal operations
-- **[ft_printf](https://github.com/enesilhan1/42-FT_PRINTF)** — printf fonksiyonunun yeniden yazımı / A reimplementation of printf
-- **[Get_Next_Line](https://github.com/enesilhan1/42-Get_Next_Line)** — Dosyadan satır satır okuma / Reading a file line by line
-- **[libft](https://github.com/enesilhan1/42-LIBFT)** — Standart C fonksiyonlarını yeniden yazan özel kütüphane / A custom C library reimplementing standard functions
-
-**Python**
-- **[Python00](https://github.com/enesilhan1/42-Python00)** — Temeller / Basics
-- **[Python01](https://github.com/enesilhan1/42-Python01)** — Nesne yönelimli programlama / Object-oriented programming
-- **[Python02](https://github.com/enesilhan1/42-Python02)** — Hata yönetimi / Exception handling
-- **[Python03](https://github.com/enesilhan1/42-Python03)** — Koleksiyonlar ve generatorlar / Collections and generators
-- **[Python04](https://github.com/enesilhan1/42-Python04)** — Dosya I/O / File I/O
-- **[Python05](https://github.com/enesilhan1/42-Python05)** — Soyutlama ve polimorfizm / Abstraction and polymorphism
-- **[Python06](https://github.com/enesilhan1/42-Python06)** — Import sistemi / Import system
-- **[Python07](https://github.com/enesilhan1/42-Python07)** — Tasarım desenleri / Design patterns
-- **[Python08](https://github.com/enesilhan1/42-Python08)** — Sanal ortamlar ve bağımlılık yönetimi / Virtual environments and dependency management
-- **[Python09](https://github.com/enesilhan1/42-Python09)** — Pydantic ile veri doğrulama / Data validation with Pydantic
-- **[Python10](https://github.com/enesilhan1/42-Python10)** — Fonksiyonel programlama / Functional programming
-
-
-**Diğer Projeler / Other Projects** (AI destekli geliştirildi / AI-assisted)
-- **[CountDown Alarm](https://github.com/enesilhan1/CountDown-Alarm)** — Saat yerine süreyle kurulan Android alarm uygulaması / Duration-based Android alarm app
-- **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Yapılmayan planı otomatik olarak sonraki plan saatine kaydıran Android planlayıcı / Android planner that rolls missed plans forward to the next slot
-- **[TutorSim](https://github.com/enesilhan1/tutorsim)** — Cat the Jam game jam'de ekiple geliştirilen 2D oyun, 20 takım arasında 2. / Team-built 2D game from the Cat the Jam game jam, 2nd of 20 teams
-- **[Web Asistanı](https://github.com/enesilhan1/Web-asistan)** — Açık sekmeleri inceleyen ve geçmişte arama yapan yapay zekâ asistanı (Chrome eklentisi) / AI assistant Chrome extension for open tabs and browsing history
+> 42 İstanbul'da yazılım eğitimi alıyorum. Temelim C ve algoritmalar, şu an Python ile ilerliyorum; hedefim oyun geliştirme.
 
 ---
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FpcTV4NmZwZXEwdnAxbTFnOHNnMnhlMzd1YTZzODVpYTJqeTNrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ORjfgiG9ZtxcQQwZzv/giphy.gif" alt="dancing gif" />
+## Featured Projects
 
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@enesilhan8007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/enes.ilh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/enes-ilhan-2b52a92bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**[TutorSim](https://github.com/enesilhan1/tutorsim)** — *Team project, AI-assisted*<br>
+2D endless simulation game built at the Cat the Jam game jam. You play as a tutor on the 42 campus, catching rule-breakers and handing out penalties before time runs out. NPCs carry real 42 student usernames pulled from the 42 API.<br>
+**2nd place out of 20 teams.** Built with Flutter and Flame.
 
-###
+**[Push_Swap](https://github.com/enesilhan1/42-Push_Swap)** — *C*<br>
+Sorts a list of integers using two stacks and a limited instruction set, aiming for the minimum number of operations.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+---
 
-###
+## C Projects
+
+| Project | Description |
+|---|---|
+| [libft](https://github.com/enesilhan1/42-LIBFT) | Custom C library reimplementing standard library functions |
+| [ft_printf](https://github.com/enesilhan1/42-FT_PRINTF) | Reimplementation of `printf` using variadic functions |
+| [Get_Next_Line](https://github.com/enesilhan1/42-Get_Next_Line) | Reads a file line by line through a file descriptor with a static buffer |
+
+## Python Projects
+
+Modules from the 42 İstanbul Python curriculum, completed in order from 00 to 10. They start with the language basics and build up step by step: object-oriented programming, error handling, generators, file I/O, the import system, design patterns, dependency management, data validation with Pydantic, and functional programming.
+
+<details>
+<summary><b>42 Python Modules (00–10)</b></summary>
+
+| Module | Topic |
+|---|---|
+| [Python00](https://github.com/enesilhan1/42-Python00) | Basics |
+| [Python01](https://github.com/enesilhan1/42-Python01) | Object-oriented programming |
+| [Python02](https://github.com/enesilhan1/42-Python02) | Exception handling |
+| [Python03](https://github.com/enesilhan1/42-Python03) | Collections and generators |
+| [Python04](https://github.com/enesilhan1/42-Python04) | File I/O |
+| [Python05](https://github.com/enesilhan1/42-Python05) | Abstraction and polymorphism |
+| [Python06](https://github.com/enesilhan1/42-Python06) | Import system |
+| [Python07](https://github.com/enesilhan1/42-Python07) | Design patterns |
+| [Python08](https://github.com/enesilhan1/42-Python08) | Virtual environments and dependency management |
+| [Python09](https://github.com/enesilhan1/42-Python09) | Data validation with Pydantic |
+| [Python10](https://github.com/enesilhan1/42-Python10) | Functional programming |
+
+</details>
+
+## Other Projects *(AI-assisted)*
+
+- **[CountDown Alarm](https://github.com/enesilhan1/CountDown-Alarm)** — Android alarm set by duration instead of clock time
+- **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Android planner that moves missed plans to the next available slot
+- **[Web Assistant](https://github.com/enesilhan1/Web-asistan)** — Chrome extension that inspects open tabs and searches browsing history
+
+---
+
+## Tech
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+</p>
