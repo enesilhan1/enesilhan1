@@ -53,11 +53,17 @@ Modules from the 42 İstanbul Python curriculum, completed in order from 00 to 1
 
 ## Other Projects *(AI-assisted)*
 
-- **[Manga Translator](https://github.com/enesilhan1/MangaTranslator)** — Chrome and Firefox extension that translates the text inside manga images, right over the speech bubbles
-- **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Android planner that moves missed plans to the next available slot
+### Mobile Apps
+
 - **[GelirGider](https://github.com/enesilhan1/GelirGider)** — Android income and expense tracker with one-tap quick entries, automatic recurring transactions, reports and a home-screen widget
+- **[TakvimTakip](https://github.com/enesilhan1/TakvimTakip)** — Android planner that moves missed plans to the next available slot
 - **[CountDown Alarm](https://github.com/enesilhan1/CountDown-Alarm)** — Android alarm set by duration instead of clock time
+
+### Browser Extensions
+
+- **[Manga Translator](https://github.com/enesilhan1/MangaTranslator)** — Chrome and Firefox extension that translates the text inside manga images, right over the speech bubbles
 - **[Web Assistant](https://github.com/enesilhan1/Web-asistan)** — Chrome and Firefox extension: an AI assistant that reads your open tabs and searches your browsing history, sending only domains and page titles to the AI
+
 ---
 
 ## Tech
